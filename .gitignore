@@ -1,0 +1,6 @@
+node_modules/
+registrations.db
+registrations.db-shm
+registrations.db-wal
+.env
+.DS_Store
